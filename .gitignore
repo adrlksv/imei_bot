@@ -6,3 +6,6 @@ src/backend/migrations/__pycache__/
 src/backend/migrations/versions/__pycache__/
 src/backend/users/__pycache__/
 src/backend/imei_check/__pycache__/
+bot/__pycache__/
+bot/handlers/__pycache__/
+bot/keyboards/__pycache__/
