@@ -30,9 +30,9 @@ python -m pip install -r requirements.txt
 
 Создайте файл .env и добавь нужные параметры:
 
-API_URL=http://127.0.0.1:8000  # Адрес FastAPI сервера
-BOT_TOKEN=your_telegram_bot_token  # Токен Telegram-бота
-TOKEN_SANDBOX=your_api_key  # API-ключ для проверки IMEI
+- API_URL=http://127.0.0.1:8000
+- BOT_TOKEN=your_telegram_bot_token 
+- TOKEN_SANDBOX=your_api_key
 ...
 
 4. Запуск сервера FastAPI
