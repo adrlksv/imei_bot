@@ -34,7 +34,6 @@ python -m pip install -r requirements.txt
 - BOT_TOKEN=your_telegram_bot_token 
 - TOKEN_SANDBOX=your_api_key
 - ...
-...
 
 4. Запуск сервера FastAPI
 ```
