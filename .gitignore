@@ -5,3 +5,4 @@ src/backend/dao/__pycache__/
 src/backend/migrations/__pycache__/
 src/backend/migrations/versions/__pycache__/
 src/backend/users/__pycache__/
+src/backend/imei_check/__pycache__/
